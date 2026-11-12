@@ -1,0 +1,1 @@
+    grid-template-columns: 1.3fr .7fr .7fr 1.2fr;
